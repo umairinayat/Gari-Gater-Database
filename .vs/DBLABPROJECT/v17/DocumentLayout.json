@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\FAQ.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:FAQ.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|f:\\spring\\database\\project\\dblabproject\\dblabproject\\homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|f:\\spring\\database\\project\\dblabproject\\dblabproject\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\ad.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:ad.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A3AEB91C-4C8E-4046-8589-9380B973EE55}|DBLABPROJECT.csproj|solutionrelative:Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homepage.aspx.designer.cs",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\homepage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "homepage.aspx.designer.cs",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\homepage.aspx.designer.cs",
+              "RelativeToolTip": "homepage.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:22:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "homepage.aspx.cs",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\homepage.aspx.cs",
+              "RelativeDocumentMoniker": "homepage.aspx.cs",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\homepage.aspx.cs",
+              "RelativeToolTip": "homepage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:23:23.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aboutus.aspx",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\aboutus.aspx",
+              "RelativeDocumentMoniker": "aboutus.aspx",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\aboutus.aspx",
+              "RelativeToolTip": "aboutus.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T21:35:31.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-02T21:34:25.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ad.aspx.cs",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\ad.aspx.cs",
+              "RelativeDocumentMoniker": "ad.aspx.cs",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\ad.aspx.cs",
+              "RelativeToolTip": "ad.aspx.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAwwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:34:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\homepage.aspx",
+              "RelativeDocumentMoniker": "homepage.aspx",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\homepage.aspx",
+              "RelativeToolTip": "homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T21:34:26.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FAQ.aspx",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\FAQ.aspx",
+              "RelativeDocumentMoniker": "FAQ.aspx",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\FAQ.aspx",
+              "RelativeToolTip": "FAQ.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T21:34:26.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Site1.Master.cs",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Site1.Master.cs",
+              "RelativeToolTip": "Site1.Master.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:34:26.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "F:\\Spring\\Database\\Project\\DBLABPROJECT\\DBLABPROJECT\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T21:34:26.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
